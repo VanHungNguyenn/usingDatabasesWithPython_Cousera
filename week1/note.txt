@@ -3,3 +3,4 @@
 ASCII: 128 kí tự
 Unicode: Nhiều kí tự khác nhau của rất nhiều ngôn ngữ trên thế giới.
 
+UTF-8, UTF-16, UTF-32
